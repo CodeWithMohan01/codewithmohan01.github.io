@@ -31,11 +31,21 @@ body .body {
 	background-color: rgba(0, 46, 82, 0.15);
 	padding: 20px;
 }
-.page {
+.project {
   overflow: hidden;
-  background-color: #fff;
+  background-color: #081e33;;
   padding: 50px 0;
 }
+#work{
+	color: white;
+}
+.page {
+  overflow: hidden;
+  background-color: #f4f8ff;
+  padding: 50px 0;
+}
+
+
 * {
 	border-radius: 0 !important;
 	-webkit-border-radius: 0 !important;
@@ -813,8 +823,9 @@ ul.social-list li .rotate-box-1 {
 	margin: 0;
 }
 ul.social-list li a i {
-	color: #fff;
-	font-size:20px;
+	color: #000;
+    font-size: 40px;
+    padding-left: 50px;
 }
 /* ===== End social ===== */
 
